@@ -1,4 +1,4 @@
-# akhbarna
+# akhbary
 
 A new Flutter project.
 News Application eith Api
