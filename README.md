@@ -1,7 +1,7 @@
 # akhbary
 
 A new Flutter project.
-News Application eith Api
+News Application with Api
 
 
 
